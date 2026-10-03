@@ -19,9 +19,11 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Deploy on Vercel
 
-1. Import the GitHub repo `jlaaamara23/portfolio` in [Vercel](https://vercel.com) (account: `jlaa.amarajlaa@gmail.com`).
-2. Framework preset: **Next.js** (auto-detected).
-3. Deploy — production URL will be assigned by Vercel.
+**Recommended (permanent):**
+
+1. Log in to [Vercel](https://vercel.com) as `jlaa.amarajlaa@gmail.com`.
+2. **Add New Project** → Import GitHub repo `jlaaamara23/portfolio`.
+3. Framework preset: **Next.js** (auto-detected) → Deploy.
 
 Or with the CLI (requires a token for that account):
 
